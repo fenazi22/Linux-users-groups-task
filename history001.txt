@@ -1,0 +1,341 @@
+    1  apt-get update
+    2  apt-get upgrade
+    3  pip3 install holehe
+    4  python3 setup.py install
+    5  holehe arabsboy00965@gmail.com
+    6  holehe feksa20@gmail.com
+    7  clear
+    8  holehe fenazi22@gmail.com
+    9  clear
+   10  git https://github.com/vulnspy/sqli-labs.git
+   11  cd ~
+   12  clear
+   13  git clone 
+   14  cleat
+   15  clear
+   16  git clone  https://github.com/Audi-1/sqli-labs.git
+   17  ls
+   18  cd Downloads
+   19  ls
+   20  chmod 755 xampp-windows-x64-7.4.30-1-VC15-installer.exe
+   21  sudo ./xampp-linux-*-installer.run
+   22  sudo ./xampp-windows-x64-7.4.30-1-VC15-installer.exe
+   23  ls
+   24  chmod 777 xampp-windows-x64-7.4.30-1-VC15-installer.exe
+   25  ./xampp-windows-x64-7.4.30-1-VC15-installer.exe
+   26  clear
+   27  ls
+   28  cd ..
+   29  ls
+   30  cd Desktop
+   31  ls
+   32  cd ..
+   33  ls
+   34  mv sqli-labs /var/www
+   35  cd /var/www
+   36  ls
+   37  cd ..
+   38  ls
+   39  cd ..
+   40  ls
+   41  cd etc/init.d
+   42  apache2 start
+   43  clrar
+   44  cd Desktop
+   45  cd ~
+   46  ls
+   47  /etc/init.d/apache2 start
+   48  start mysql
+   49  restart mysql
+   50  sudo /etc/init.d/mysqld start
+   51  /etc/init.d/mysqld start
+   52  /etc/init.d/
+   53  ls
+   54  mysqld start
+   55  cd ..
+   56  start MySQL server
+   57  start mysqld
+   58  clear
+   59  start mysqld
+   60  start mysq
+   61  start mysql
+   62  clear
+   63  systemctl start mysqld
+   64  mysqld start\n
+   65  service start\n
+   66  service apache2 start
+   67  cd var/www
+   68  ls
+   69  cd sqli-labs
+   70  cd sql-connections
+   71  ls
+   72  nano db-creds.inc
+   73  mysql start
+   74  clear
+   75  mysql stauts
+   76  mysql status
+   77  service apache2 start
+   78  service mysql status
+   79  mysql -h localhost -u root -p
+   80  service mysql status
+   81  sudo apt update && sudo apt full-upgrade -y
+   82  cd..
+   83  cd ..
+   84  cd..
+   85  cd ~
+   86  sudo service apache2 start
+   87  sudo service apache2 status
+   88  sudo systemctl enable apache2
+   89  cd /var/www
+   90  ls
+   91  htt://localhost/sqli-labs
+   92  http://localhost/sqli-labs
+   93  /etc/init.d/apache2 restart
+   94  sudo /etc/init.d/apache2 restart
+   95  sudo service apache2 restart
+   96  sudo systemctl status apache2.service
+   97  sudo systemctl enable apache2
+   98  ls
+   99  nemo
+  100  cd ..
+  101  cd Desktop
+  102  cd ..
+  103  ls
+  104  cd home
+  105  ls
+  106  cd kali
+  107  ls
+  108  cd Desktop
+  109  clear
+  110  apt install nemo
+  111  nemo
+  112  sudo nemo
+  113  cd /var/www
+  114  ls
+  115  ls -la
+  116  mv sqli-labs /var/www/html
+  117  clear
+  118  cd ..
+  119  cd Desktop
+  120  cd /home/kali/Desktop
+  121  clear
+  122  holehe feksa20@gmail.com
+  123  holehe fenazi22@gmail.com
+  124  clear
+  125  whoami
+  126  hostname
+  127  wc holehe-master
+  128  last
+  129  w
+  130  history | grep -i id  
+  131  history | grep -i whoami
+  132  uptime
+  133  timedatectl set-timezone Asia/Dubai
+  134  TZ="ASIA/DUBIA" date
+  135  cal >Date
+  136  chmod 777 Date
+  137  echos "Oh there is an error" 2> logs.txt
+  138  cat logs.txt
+  139  exit
+  140  clear
+  141  cd /home/kali/Desktop
+  142  holehe ffa_12@hotmail.com
+  143  fenazi22@gmail.com
+  144  holehe fenazi22@gmail.com
+  145  exit
+  146  head
+  147  sudo pacman -S atom
+  148  clear
+  149  useradd faisal  -p 1234 
+  150  cat /etc/passwd/
+  151  cat /etc/papasswd/
+  152  cat /etc/papasswd
+  153  cat /etc/passwd/
+  154  cat /etc/passwd
+  155  clear
+  156  apt-get upgrade
+  157  clear
+  158  pip3 install
+  159  pip3
+  160  pip3 list
+  161  exit
+  162  sudo -s
+  163  clear
+  164  cd /home/kali/Desktop
+  165  cat createuser.sh
+  166  cd /home/kali/Desktop
+  167  cat userlist
+  168  usermod -e hanan 2025-1-1
+  169  chage -l hanan
+  170  usermod -e hanan 1-1-2025
+  171  usermod -e 1-1-2025 hanan
+  172  chage -l hanan
+  173  chage -e 1-1-2025  hanan
+  174  usermod -e 1-1-25   hanan
+  175  chage -l hanan
+  176  sudo chage -E 2023-01-15 hanan
+  177  chage -l hanan
+  178  exit
+  179  cp /var/log/syslog ~/mydir/securecopy.txt
+  180  ls
+  181  cat securecopy.txt
+  182  ls
+  183  hash securecopy.txt
+  184  hash
+  185  hash 
+  186  cksum securecopy.txt
+  187  nano securecopy.txt
+  188  cksum securecopy.txt
+  189  grep "password" useradd-man.txt
+  190  diff /var/log/syslog and ~/mydir/securecopy.txt
+  191  exit
+  192  /var/log/syslog
+  193  ls
+  194  ls -la
+  195  hash root
+  196  hash /var/log/syslog
+  197  ld
+  198  ls
+  199  hash syslog
+  200  cd syslog
+  201  sudo cd syslog
+  202  cd /var/log/syslog
+  203  hash
+  204  cd /home/kali/Desktop 
+  205  hash -n 5 >>hash.txt
+  206  cat hash.txt
+  207  hash  >> -n5 hash.txt
+  208  hash  >> -n 5 hash.txt
+  209  hash  tail -n 3 state.txt
+  210  hash -n3 >> hash.txt
+  211  cat -n
+  212  clear
+  213  rm -n5
+  214  rm "-n"
+  215  rm -n5.txt
+  216  hash -n3 >> hash.txt
+  217  cat hash.txt
+  218  hash >> hash.txt
+  219  cat hash.txt
+  220  cd /home
+  221  ls
+  222  cd ~
+  223  ls
+  224  cd Desktop
+  225  cd /home/kali
+  226  ls
+  227  cd mydir
+  228  ls
+  229  find .Faisal  -name securecopy.txt
+  230  find .faisal  -name securecopy.txt
+  231  find ./Faisal  -name securecopy.txt
+  232  find Faisal securecopy.txt
+  233  find "Faisal"  securecopy.txt
+  234  find ./Faisal   securecopy.txt
+  235  find ./Faisal -name   securecopy.txt
+  236  find ./Faisal -iname   securecopy.txt
+  237  find . -iname   yourname.txt
+  238  man useradd>>useradd-man.txt
+  239  ls
+  240  cat useradd-man.txt
+  241  apt-get update
+  242  apt-get upgrade -y
+  243  exit
+  244  cp /tmp/log/secure ~/mydir/securecopy.txt
+  245  cd /tmp/log
+  246  cd /tmp/log/
+  247  cd /tmp/
+  248  ls
+  249  ls -l
+  250  cd /tmp/
+  251  ls
+  252  cd /var/log/
+  253  ls
+  254  ls -la
+  255  clear
+  256  cd /var/log/
+  257  cd /var/log/sysstat
+  258  ls
+  259  ls -la
+  260  clear
+  261  cd /var/log/sysstat
+  262  ls
+  263  cd /var/log/sysstat/
+  264  ls -la
+  265  cd /var/log/
+  266  ls
+  267  cd /var/log/sysstat/
+  268  ls
+  269  cd /var/log/sysstat/
+  270  ls
+  271  ls -la
+  272  su kali
+  273  exit
+  274  cat useradd-man.txt
+  275  cat /etc/shadow
+  276  cat /etc/passwd
+  277  ld
+  278  grep "password" useradd-man.txt
+  279  find . -iname   yourname.txt
+  280  find . -iname   mydir2
+  281  grep mydir2
+  282  clear
+  283  exit
+  284  history
+  285  exit
+  286  clear
+  287  sudo usermod -e 2025-1-1 -c " HR Specialist " Raghed
+  288  usermod -e 2025-1-1 -c " HR Specialist " Raghed
+  289  usermod -e 2025-1-1 -c " HR Specialist " raghed
+  290  sermod -e 2025-1-1 -c " Shipping " Abdullah
+  291  usermod -e 2025-1-1 -c " Shipping " Abdullah
+  292  usermod -e 2025-1-1 -c " Shipping " abdullah
+  293  clear
+  294  usermod -e 2025-1-1 -c " HR Specialist " deem
+  295  usermod -e 2025-1-1 -c " Finace Specialist " norah
+  296  usermod -e 2025-1-1 -c " HR Specialist " khalid.
+  297  usermod -e 2025-1-1 -c " Sales representative " raneem
+  298  usermod -e 2025-1-1 -c " Shipping " ahmed
+  299  usermod -e 2025-1-1 -c " Shipping " oudi 
+  300  usermod -e 2025-1-1 -c " Shipping " abdulaziz
+  301  usermod -e 2025-1-1 -c " Sales representative " naif
+  302  usermod -e 2025-1-1 -c " HR , Manager " ghada
+  303  usermod -e 2025-1-1 -c " Shipping " mohammed
+  304  usermod -e 2025-1-1 -c " Sales representative " hanan
+  305  groupadd -p Alibabastudent001 HR
+  306  groupadd -p Alibabastudent001 CEO
+  307  groupadd -p Alibabastudent001 Sales
+  308  groupadd Shipping
+  309  groupadd Manager
+  311  usermod -a -G HR , Manager ghada
+  312  usermod -a -G HR , Manager Ghada
+  313  usermod -a -G HR , Manager ghada
+  314  useradd -a -G HR , Manager ghada
+  315  sudo usermod -a -G HR , Manager ghada
+  316  id Ghada
+  317  id ghada
+  318  usermod -a -G HR,Manager khalid.
+  319  useradd -a -G HR,Manager khalid.
+  320  usermod -a -G HR,Manager ali
+  321  usermod -a -G HR deem
+  322  usermod -a -G HR raghed
+  323  usermod -a -G CEO salem
+  324  usermod -a -G Sales hanan,naif,raneem,sarah
+  325  usermod -a -G sales hanan,naif,raneem,sarah
+  326  usermod -a -G Sales hanan&naif&raneem&sarah
+  327  usermod -a -G Sales hanan&naif&raneem&arah
+  328  usermod -a -G Sales naif&raneem&arah
+  329  usermod -a -G Sales raneem&arah
+  330  usermod -a -G Sales arah
+  331  usermod -a -G Sales sarah
+  332  clear
+  333  usermod -a -G Shipping Oudi
+  334  usermod -a -G Shipping oudi
+  335  usermod -a -G Shipping mohammed
+  336  usermod -a -G Shipping abdulaziz
+  337  usermod -a -G Shipping ahmed
+  338  usermod -a -G Finance khalid
+  339  usermod -a -G Finance norah
+  340  apt install members
+  341  members Shipping
+  342  cd /home/kali/Desktop 
